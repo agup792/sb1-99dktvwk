@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="300" viewBox="0 0 1200 300" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M0 0h1200v300H0z" fill="none"/>
+        <path d="M170 50c-66.274 0-120 53.726-120 120s53.726 120 120 120 120-53.726 120-120S236.274 50 170 50" fill="#FF6B00"/>
+        <path d="M440 50h320v240H440z" fill="#4B286D"/>
+        <path d="M880 50h200l40 240h-280z" fill="#FF6B00"/>
+    </g>
+</svg>
